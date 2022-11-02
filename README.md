@@ -16,5 +16,5 @@
 ###### Git ######
 
 ## Contacts: 👀 ##
-Telegram: @simplemanga
-Email: thedoroshenkomarina@gmail.com
+###### Telegram: @simplemanga
+###### Email: thedoroshenkomarina@gmail.com
