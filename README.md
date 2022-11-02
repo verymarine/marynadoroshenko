@@ -7,7 +7,7 @@
 ###### 🪴 I’m looking to collaborate on real projects and create intuitive, efficient and user-friendly interfaces ######
 
 ## My stack: ⚒️ ##
- ###### HTML ######
+###### HTML ######
 ###### CSS ######
 ###### JS ######
 ###### React.js ######
