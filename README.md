@@ -1,4 +1,4 @@
-# Hello everyone, i`m Maryna Doroshenko 👋
+# Hello everyone, i`m Maryna Doroshenko 👋 #
 -------------------------
 ## I'm a Front-end developer ##
 
@@ -8,13 +8,13 @@
 ###### 🪴 I’m looking to collaborate on real projects and create intuitive, efficient and user-friendly interfaces ######
 -------------------------
 ## My stack: ⚒️ ##
-HTML
-CSS
-JS
-React.js
-Node.js (Express)
-MongoDB
-Git
+ ###### HTML ######
+###### CSS ######
+######JS######
+######React.js######
+######Node.js (Express)######
+######MongoDB######
+######Git######
 -------------------------
 ## Contacts: 👀 ##
 Telegram: @simplemanga
