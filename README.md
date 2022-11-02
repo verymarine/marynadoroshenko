@@ -1,5 +1,5 @@
-# Hello everyone, i`m Maryna Doroshenko 👋 #
-## I'm a Front-end developer ##
+# Hello everyone, i`m Maryna Doroshenko 👋 
+## I'm a Front-end developer
 
 ###### ♥️ I'm passionate about JavaScript and writing code ######
 ###### 💫 I`m React.js big lover ######
